@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there, I'm Mohammed Jubair 👋
 
-<!--
-**mohammedjubair-14/mohammedjubair-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a third year Electronics and Communication Engineering student, I am passionate about applying my knowledge and skills to real-world projects.I'm a bio-maths student in 12th standard, and I've recently discovered my interest in programming. Although it's not related to my current academic field, I find coding fascinating and I've started learning on my own. I started with the C programming language and I'm now eager to learn other languages such as C++, Python, and Java.
 
-Here are some ideas to get you started:
+## 🌱 I'm currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C programming language
+- Python programming language
+
+
+## 📫 How to reach me
+
+- www.linkedin.com/in/
+mohammed-jubair
+
+ 😆 "Programming is like magic - you write some code, press a few buttons, and voila! You've brought your ideas to life in the digital realm."
+
+😆  "Debugging is like being a detective in a crime movie where you're also the murderer."
+
+"Join me in this exciting programming language journey! Let's code our way to the future and have fun while doing it! 🚀💻"
